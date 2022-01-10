@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @James-Vernon
-- 👀 I’m interested in python, R, Linux. 
+- 👀 I’m interested in Python, R, Linux, MLOps, DataOps
 - 🌱 I’m currently learning Data Science via Master of Science Data Analytics University of Maryland Global Campus
 - 💞️ I’m looking to collaborate on any projects that concetrate on extracting and transforming data.
 
